@@ -1,0 +1,30 @@
+body {
+    background-color: #fafafa;
+}
+
+.created {
+    font-size: .7rem;
+    color: gray;
+}
+
+.completed {
+    background-color: lightgray;
+    color: gray;
+}
+
+.text_line_through {
+    text-decoration: line-through;
+}
+
+
+.not-completed {
+    background-color: white;
+}
+
+#task_name_delete {
+    color: #fe6993;
+    background-color:rgba(254,105,147,0.1);
+}
+
+
+
